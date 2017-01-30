@@ -1,0 +1,1 @@
+C:\\Users\\Kraghan\\OneDrive\\Jeux\\SFML-2.4.0/lib/libsfml-graphics.a C:\\Users\\Kraghan\\OneDrive\\Jeux\\SFML-2.4.0/lib/libsfml-window.a C:\\Users\\Kraghan\\OneDrive\\Jeux\\SFML-2.4.0/lib/libsfml-system.a C:\\Users\\Kraghan\\OneDrive\\Jeux\\SFML-2.4.0/lib/libsfml-audio.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

@@ -1,0 +1,5 @@
+C:/Users/madjo/OneDrive/workspace/KUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/madjo/OneDrive/workspace/KUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/madjo/OneDrive/workspace/KUI/cmake-build-debug/Source/CMakeFiles/KUI.dir
+C:/Users/madjo/OneDrive/workspace/KUI/cmake-build-debug/Source/CMakeFiles/edit_cache.dir
+C:/Users/madjo/OneDrive/workspace/KUI/cmake-build-debug/Source/CMakeFiles/rebuild_cache.dir
