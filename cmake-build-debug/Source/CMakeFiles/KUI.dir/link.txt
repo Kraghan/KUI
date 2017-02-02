@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\JetBrains\CLion 2016.2.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\KUI.dir/objects.a
-C:\PROGRA~2\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\KUI.dir/objects.a @CMakeFiles\KUI.dir\objects1.rsp
-C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE  -std=c++11 -O2 -std=c++11 -Wall -g   -Wl,--whole-archive CMakeFiles\KUI.dir/objects.a -Wl,--no-whole-archive  -o ..\..\bin\KUI.exe -Wl,--out-implib,libKUI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\KUI.dir\linklibs.rsp
