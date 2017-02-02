@@ -29,6 +29,6 @@
 *.app
 
 #Custom
+cmake-build-debug/*
 .idea/*
-
 CMakeConfig.txt
